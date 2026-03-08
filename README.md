@@ -46,6 +46,8 @@ People who are working full-time or people who are not living with their elderly
 
 ## Tech Stack
 
+
+
 ---
 
 ## How It Works
@@ -54,13 +56,13 @@ People who are working full-time or people who are not living with their elderly
 2. Connect with your caregiver or elderly person using code.
    
 Caregiver:
-3. Set AI Companion calls. User can choose how many calls made per day and what type of questions asked during the call.
-4. AI Summary. User can see the summary of the AI Companion calls made during the day. 
-5. Can set human calls. User can schedule a time for when they want to call with the elderly person. 
+1. Set AI Companion calls. User can choose how many calls made per day and what type of questions asked during the call.
+2. AI Summary. User can see the summary of the AI Companion calls made during the day. 
+3. Can set human calls. User can schedule a time for when they want to call with the elderly person. 
 
 Elderly person:
-3. Call with AI Companion. 
-4. Call with caregiver or family. 
+1. Call with AI Companion. 
+2. Call with caregiver or family. 
 
 ---
 
