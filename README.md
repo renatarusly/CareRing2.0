@@ -46,7 +46,20 @@ People who are working full-time or people who are not living with their elderly
 
 ## Tech Stack
 
+Frontend:
+We built the user interfaces using HTML, CSS and JavaScript. 
 
+Backend:
+The backend is built with Node.js and Express, which manages the call flow, processes requests from the website and connects the different services used in the system.
+
+AI & Conversation:
+We used Google Gemini API to generate the conversational responses during the call. 
+
+Voice & Telephony:
+Twilio Voice powers the phone calls between the AI system and the elderly user. Twilio handles the call connection and speech input, allowing the AI to respond in real time.
+
+Local Development:
+During development we used ngrok to expose our local server to the internet so Twilio could communicate with it while testing phone calls.
 
 ---
 
